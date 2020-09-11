@@ -48,6 +48,9 @@ __Welcome to BITSS!__ As a URAP, your tasks will mainly be related to Open Polic
   - [Shiny user showcase and demos](https://shiny.rstudio.com/gallery/#user-showcase) - review code and apps of other Shiny developers
 - [DiagrammeR resources](https://github.com/BITSS-OPA/Tutorials/blob/master/DiagrammeR/Online%20Resources.md) (DiagrammeR is an R package that enables you to create graph diagrams using text)
 - [Plotly resources](https://github.com/BITSS-OPA/Tutorials/blob/master/Plotly/Basic%20Info%20and%20Resources.md) (Plotly is an R package that allows you to create interactive web-based graphs)  
+- [Voila ](https://neurohive.io/en/news/voila-lets-you-create-a-standalone-app-from-your-jupyter-notebook/): Voila is a new Python package that allows you to convert a Jupyter Notebook to an app or dashboard
+  - [Voila Gallery](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130) - explore examples of apps and dashboards
+  - [Deploy a Jupyter Notebook online](https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html)
 
 ### Other Resources 
 
