@@ -2,11 +2,31 @@
 
 <img width="200" src="./BITSS_logo_horizontal.png"><img width="200" src="./CEGA_logo.png">
 
-__Welcome to BITSS!__ As a URAP, your tasks will mainly be related to Open Policy Analysis ([OPA](https://github.com/BITSS-OPA)) or the Accelerating Computational Reproducibility in Economics project ([ACRE](https://github.com/BITSS/ACRE)).  
+__Welcome to BITSS!__ As a URAP, your tasks will mainly be related to two of our main projects:
+  1. Open Policy Analysis ([OPA](https://www.bitss.org/opa/))
+  2. Accelerating Computational Reproducibility in Economics ([ACRE](https://bitss.github.io/ACRE/)).  
+
+Within the OPA project you will be part of one of three tracks:
+
+1. *Data Visualization for Public Policy (DVPP)* – develop interactive data visualizations in the form of web apps using R Shiny;
+
+2. *Data Science for Public Policy (DSPP)* – translate econometric and policy analyses into R code; or
+
+3. *Public Policy Research and Outreach (PPRO)* – identify policy analyses for potential application of OPA principles and support the development of common standards for OPA.
+
+Each track will meet weekly to present their progress and discuss next steps. Regardless of your track each week all URAPs must follow the same logistics/workflow.
 
 ### Logistics/workflow
-- __Task assignment:__ You will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
-- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_.  
+- __Task assignment:__ At the beginnig of the week, you will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
+- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks.
+
+- **Unavailability due to midterm overload:** each URAP is allowed to up to 2 tokens per semester to excuse themsleves from working on a given week. You are only required announce the use of that token one week on advance (in your weekly report).
+
+### Fall Calendar
+ - Week 1 (9/21): Introductory materials for OPA and ACRE.
+ - Week 2 (9/28): Instroductory tasks for each track.
+ - Week 3 - 10 (23/30): Track-specific tasks.
+ - Week 11 (11/30): Wrap-up report (summary, tutorials, next steps).
 
 ### Content
 
@@ -20,7 +40,7 @@ __Welcome to BITSS!__ As a URAP, your tasks will mainly be related to Open Polic
     - [Link to app](http://wealthtaxsimulator.org/simulator_app/)
     - [Link to dynamic document](http://wealthtaxsimulator.org/analysis/)
     - [Link to repository](https://github.com/BITSS/opa-wealthtax)
-  - Click here for the BITSS page on the Deworming OPA (forthcoming) 
+  - Click here for the BITSS page on the Deworming OPA (forthcoming)
 
 #### Tools for Open Materials (Computational reproducibility)
 - Git Tutorials  
@@ -41,7 +61,7 @@ __Welcome to BITSS!__ As a URAP, your tasks will mainly be related to Open Polic
   - [Jupyter Notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - a tutorial on how to set up Jupyter Notebooks on your local machine, and a basic walkthrough (uses Python)
   - [Jupyter Notebook quick tips and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-#### Tools for Open Output 
+#### Tools for Open Output
 - [Shiny tutorials](https://github.com/BITSS-OPA/Tutorials/tree/master/R_Shiny): includes a demo and online resources, copied below for convenience
   - [Shiny tutorial for conceptual  understanding](https://shiny.rstudio.com/tutorial/)
   - [Shiny tutorial slides](https://datascienceplus.com/wp-content/uploads/2017/10/How-to-start-with-ShinyR.pdf) - looking up specific notes
@@ -52,6 +72,6 @@ __Welcome to BITSS!__ As a URAP, your tasks will mainly be related to Open Polic
   - [Voila Gallery](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130) - explore examples of apps and dashboards
   - [Deploy a Jupyter Notebook online](https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html)
 
-### Other Resources 
+### Other Resources
 
 - [Click here](https://github.com/BITSS-OPA/Tutorials) to visit a URAP-created repository of useful tutorials and summaries for completing your work.
