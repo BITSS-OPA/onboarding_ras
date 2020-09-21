@@ -1,4 +1,6 @@
 
+
+
  1. Define categories.
     - Environment & Natural Resources
     - Covid-19
@@ -24,9 +26,10 @@
     - Email the oppossing organization and ask to assess accuracy of this benefits and costs. If they disagree, ask to provide their best estimates.
  5. Repeat 4 for the other organization.
 
- Create example with minimum wage. 
+ Create example with minimum wage.
 
 
+- Whenever I assign a task different from above, I will send an email to the group track asking for volunteers. If no voluteers, I choose randomly within all group, if more volunteers than slots I choose randomly within volunteers.
 
 
  - Requires: capability of reading reports, identifying key information, good comunitcaion and synthesis skills.

@@ -19,7 +19,7 @@ Each track will meet weekly to present their progress and discuss next steps. Re
 
 ### Logistics/workflow
 - __Task assignment:__ At the beginnig of the week, you will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
-- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks.
+- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks. If a report is submitted after the deadline, it will be reviewed for the week after.
 
 - **Unavailability due to midterm overload:** each URAP is allowed to up to 2 tokens per semester to excuse themsleves from working on a given week. You are only required announce the use of that token one week on advance (in your weekly report).
 
