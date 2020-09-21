@@ -2,7 +2,8 @@
 
 <img width="200" src="./BITSS_logo_horizontal.png"><img width="200" src="./CEGA_logo.png">
 
-__Welcome to BITSS!__ As a URAP, your tasks will mainly be related to two of our main projects:
+__Welcome to BITSS!__   
+As a URAP, your tasks will mainly be related to two of our main projects:
   1. Open Policy Analysis ([OPA](https://www.bitss.org/opa/))
   2. Accelerating Computational Reproducibility in Economics ([ACRE](https://bitss.github.io/ACRE/)).  
 
