@@ -43,7 +43,8 @@ Each track will meet weekly to present their progress and discuss next steps. Re
   - Click here for the BITSS page on the Deworming OPA (forthcoming)
 
 #### Tools for Open Materials (Computational reproducibility)
-- Git Tutorials  
+- Git Tutorials
+  - Intro to [Git/Github](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/Version%20control%20with%20Git%20and%20Github.md)
   - [Pull request basics](https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/)
   - [Understanding the differences between forking and cloning](https://thenewstack.io/getting-legit-with-git-and-github-cloning-and-forking/)
   - [Updating a forked repo](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/updating%20forked%20repos.md)
