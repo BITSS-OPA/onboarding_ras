@@ -2,8 +2,7 @@
 
 <img width="200" src="./BITSS_logo_horizontal.png"><img width="200" src="./CEGA_logo.png">
 
-__Welcome to BITSS!__   
-As a URAP, your tasks will mainly be related to two of our main projects:
+__Welcome to BITSS!__ As a URAP, your tasks will mainly be related to two of our main projects:
   1. Open Policy Analysis ([OPA](https://www.bitss.org/opa/))
   2. Accelerating Computational Reproducibility in Economics ([ACRE](https://bitss.github.io/ACRE/)).  
 
@@ -19,7 +18,13 @@ Each track will meet weekly to present their progress and discuss next steps. Re
 
 ### Logistics/workflow
 - __Task assignment:__ At the beginnig of the week, you will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
-- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks. If a report is submitted after the deadline, it will be reviewed for the week after.
+- __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks. If a report is submitted after the deadline, it will be reviewed for the week after.   
+As minimium requeriment to obtain a pass grade, URAPs must submit at least 8 good reports with during a semester. A good report must contain three elements: (1) list of assigned tasks, (2) list of progress and questions in each task, (3) number of hours worked during the week. The follwing are some examples of good and bad:
+  - Good examples: learned git, learned R, learned about PA, summarized # reports, pushed # commits, clean shiny app code, support a fellow URAP, etc.
+  - Bad examples: apologies, promises, comments, etc. Will be counted as not submitted.  
+
+
+
 
 - **Unavailability due to midterm overload:** each URAP is allowed to up to 2 tokens per semester to excuse themsleves from working on a given week. You are only required announce the use of that token one week on advance (in your weekly report).
 
@@ -44,8 +49,7 @@ Each track will meet weekly to present their progress and discuss next steps. Re
   - Click here for the BITSS page on the Deworming OPA (forthcoming)
 
 #### Tools for Open Materials (Computational reproducibility)
-- Git Tutorials
-  - Intro to [Git/Github](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/Version%20control%20with%20Git%20and%20Github.md)
+- Git Tutorials  
   - [Pull request basics](https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/)
   - [Understanding the differences between forking and cloning](https://thenewstack.io/getting-legit-with-git-and-github-cloning-and-forking/)
   - [Updating a forked repo](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/updating%20forked%20repos.md)
