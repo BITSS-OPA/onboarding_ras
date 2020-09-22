@@ -17,20 +17,20 @@ Within the OPA project you will be part of one of three tracks:
 Each track will meet weekly to present their progress and discuss next steps. Regardless of your track each week all URAPs must follow the same logistics/workflow.
 
 ### Logistics/workflow
-- __Task assignment:__ At the beginnig of the week, you will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
+- __Task assignment:__ At the beginning of the week, you will be assigned tasks via a task list in a [GitHub issue](https://github.com/BITSS-OPA/opa-deworming/issues/30). When beginning to work on a task, move it to the 'Work in progress' section, then later move it to the 'Completed' section and mark the task as complete after reviewing it in the weekly meeting.  
 - __Tracking your progress:__ Each week, you are expected to complete/attempt your assigned tasks and update your report of progress, located in a folder at [this repository](https://github.com/BITSS-OPA/URAP-week-progress) _(See folders 05 and after for format examples)_. **The deadline for submitting your weekly report of progress is Friday 5pm.** Reports will be reviewed during the weekend to assign further tasks. If a report is submitted after the deadline, it will be reviewed for the week after.   
-As minimium requeriment to obtain a pass grade, URAPs must submit at least 8 good reports with during a semester. A good report must contain three elements: (1) list of assigned tasks, (2) list of progress and questions in each task, (3) number of hours worked during the week. The follwing are some examples of good and bad:
+As a minimum requirement to obtain a pass grade, URAPs must submit at least 8 good reports during a semester. A good report must contain three elements: (1) list of assigned tasks, (2) list of progress and questions in each task, (3) number of hours worked during the week. The following are some examples of good and bad:
   - Good examples: learned git, learned R, learned about PA, summarized # reports, pushed # commits, clean shiny app code, support a fellow URAP, etc.
   - Bad examples: apologies, promises, comments, etc. Will be counted as not submitted.  
 
 
 
 
-- **Unavailability due to midterm overload:** each URAP is allowed to up to 2 tokens per semester to excuse themsleves from working on a given week. You are only required announce the use of that token one week on advance (in your weekly report).
+- **Unavailability due to midterm overload:** each URAP is allowed up to 2 tokens per semester to excuse themselves from working on a given week. You are only required to announce the use of that token one week in advance (in your weekly report).
 
 ### Fall Calendar
  - Week 1 (9/21): Introductory materials for OPA and ACRE.
- - Week 2 (9/28): Instroductory tasks for each track.
+ - Week 2 (9/28): Introductory tasks for each track.
  - Week 3 - 10 (23/30): Track-specific tasks.
  - Week 11 (11/30): Wrap-up report (summary, tutorials, next steps).
 

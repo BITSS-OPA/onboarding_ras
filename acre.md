@@ -1,3 +1,0 @@
-- Run ACRE reproductions.
-- Requires: interest in research in economics/empirical social sciences.
-- Start with one paper for practice (1 week for reading, 1 week for conducting the ACRE reproduction). Then separate them it into pairs (two weeks to submit revised).
