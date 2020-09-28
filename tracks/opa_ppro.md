@@ -1,4 +1,4 @@
-# Tasks for the Public Policy Research and Outreach (PPRO) track
+# Tasks for the Public Policy Research and Outreach (PPRO) Track
 
 ## Main Task  (suggested level of effort in hours)
 
@@ -9,7 +9,7 @@ credibility varies across the main opponents and supporters of the policies
 under analysis. This information will be collected in a systematic fashion, and
 then recorded in the Policy Analysis Archive.  
 
-Make a copy of the [`template-policy-issue-report.md`](template-policy-issue-report.md) rename it as `01-first-name-policy-issue.md`. Complete this template with the instructions below.
+Make a copy of the [`template-policy-issue-report.md`](template-policy-issue-report.md) rename it as `01-first-name-policy-issue.md`. Complete this template with the instructions below, and submit as a PR to [this repo](https://github.com/BITSS-OPA/policy-analysis-registry).
 
 ### Step 1: Choose a policy discussion (<2hr)
 
